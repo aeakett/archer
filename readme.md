@@ -29,3 +29,4 @@ Ideas For Future Work
   - Rename an archived file and its associated metadata file.
   - Check for various types of failure and correct them in an appropriate way (requeue empty archives, retry webciting pages... others?)
 - Make ``archer`` able process an entire archQueue.
+- Fix ``getWebciteID.py`` so that it isn't so picky about the format of its arguments.
