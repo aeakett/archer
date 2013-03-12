@@ -1,0 +1,4 @@
+[archer]
+webciteEmail = aeakett@gmail.com
+archQueueFile = archerQueue.txt
+outputPath = ~/Dropbox/archive/
